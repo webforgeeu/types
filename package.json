@@ -1,0 +1,23 @@
+{
+  "name": "types",
+  "version": "0.0.1",
+  "description": "Typescript Types",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webforgeeu/types.git"
+  },
+  "keywords": [
+  ],
+  "author": "Lars Eggert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webforgeeu/types/issues"
+  },
+  "homepage": "https://github.com/webforgeeu/types/#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
